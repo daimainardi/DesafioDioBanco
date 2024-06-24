@@ -1,0 +1,8 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ¸–[8Ò–¼„2J$f34e6964-20b4-40ff-9812-12ff85f443a6
+
+java:S3008	"URename this field "SEQUENCIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞËçßúÿÿÿÿ8Ô–¼„2J$b6cce8db-2bba-46c5-aa25-75022429272a
+r	java:S106'"+Replace this use of System.out by a logger.(—µ¹ıÿÿÿÿ8Ü–¼„2J$a40e8777-bfdc-4a01-86b1-1f3af22ee0d1
+m	java:S106("+Replace this use of System.out by a logger.(ÿÓàû8Ü–¼„2J$c7ffd26c-fff8-4427-ba93-68f840874984
+r	java:S106)"+Replace this use of System.out by a logger.(ÏÒëàşÿÿÿÿ8İ–¼„2J$d7f02592-b32a-49df-af22-1ff8fe81372c
+r	java:S106*"+Replace this use of System.out by a logger.(À¦§‚ÿÿÿÿÿ8Ş–¼„2J$09b51b89-dde2-4582-94c5-fc0860bf3e5b
